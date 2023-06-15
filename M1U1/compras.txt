@@ -2,3 +2,5 @@
 2-Ram
 3-Procesador
 4-Disco SSD
+5-Fuente
+6-Cable
